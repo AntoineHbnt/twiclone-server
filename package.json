@@ -1,0 +1,30 @@
+{
+  "name": "twitclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "firebase": "^9.6.6",
+    "fs-temp": "^2.0.1",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
+    "multer": "^1.4.4",
+    "ngrok": "^4.3.1",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0",
+    "xhr2": "^0.2.1"
+  }
+}
